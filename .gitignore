@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+
+# Hardhat files
+cache/
+artifacts/
+
+# IDE files
+.vscode/
+.idea/
