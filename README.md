@@ -1,4 +1,4 @@
-# Lana(k66)的Demo，實現kaia鏈簡單錢包功能
+# 實現kaia鏈簡單錢包功能
 
 
 https://github.com/user-attachments/assets/2110d1d5-85c4-4b18-9523-5f11eb2e829e
